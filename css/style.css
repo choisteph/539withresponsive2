@@ -194,7 +194,7 @@ iframe{
 .projectsection{
   display: block;
   text-align: center;
-  padding: 40px;
+  padding-top: 40px;
 }
 
 .projectsection img{

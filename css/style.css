@@ -103,6 +103,7 @@ a.skip:focus{
 iframe{
   height: 400px;
   width: 90vw;
+  padding: 5px;
 }
 
 .resumepdf{
@@ -179,8 +180,8 @@ iframe{
 .mainpageimages{
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-wrap: nowrap;
+  justify-content: center;
   align-items: center;
   padding: 10px;
 }
